@@ -7,7 +7,7 @@ I design and build enterprise-grade systems in regulated telecom environments, a
 ---
 
 ### 🧭 What I do
-- 16+ years architecting **BSS/OSS, IMS, and inventory/order management systems** for telecom, following **TM Forum (TMF639) frameworks**
+- 17+ years architecting **BSS/OSS, IMS, and inventory/order management systems** for telecom, following **TM Forum (TMF639) frameworks**
 - Currently building **GenAI-powered search & assist capabilities** for enterprise inventory platforms — end-to-end, from model selection to production integration
 - Pivoting toward **GenAI Solutions Architect / AI Cloud Architect** roles, bringing regulated-enterprise rigor (security, compliance, scale) to AI system design
 
