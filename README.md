@@ -1,6 +1,6 @@
 # Hi, I'm Sudhakar Dondapati 👋
 
-**Enterprise Architect (16+ yrs) | Telecom BSS/OSS, IMS & TMF Frameworks → GenAI / AI Cloud Architecture**
+**Enterprise Architect (17+ yrs) | Telecom BSS/OSS, IMS & TMF Frameworks → GenAI / AI Cloud Architecture**
 
 I design and build enterprise-grade systems in regulated telecom environments, and I'm now applying that depth to GenAI and cloud-native AI architecture — RAG pipelines, agentic systems, and compliant AI platforms for enterprise use.
 
